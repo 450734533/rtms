@@ -1,0 +1,2 @@
+set-/BIZ/CONFIG/contract/show_user_data_cache_expire_seconds-300
+set-/BIZ/CONFIG/feeds/show_contract_ad_flow-[{"beginTime":1480291200,"endTime":1504886400,"modules":["8000"],"refreshType":2,"rounds":[1],"adPosId":82,"contractOnly":1}]

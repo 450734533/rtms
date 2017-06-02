@@ -1,0 +1,25 @@
+
+html, body,
+.h100 {
+    height: 100%;
+    overflow-y: auto;
+}
+
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+body {
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+.form-tip {
+  font-size: 12px;
+  color: #999;
+  display: inline-block;
+  margin-left: 12px;
+  line-height: 1.42;
+}

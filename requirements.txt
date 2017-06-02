@@ -1,0 +1,20 @@
+django
+PyMySQL
+django-crispy-forms
+celery==3.1.25
+django-celery
+flower
+simplejson
+supervisor
+django-debug-toolbar
+djangorestframework
+requests
+paramiko
+protobuf==3.1
+django-rest-swagger
+django-filter
+django-cors-headers
+
+uwsgi
+# Need install pysvn manually
+gevent
